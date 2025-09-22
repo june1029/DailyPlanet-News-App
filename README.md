@@ -8,7 +8,7 @@ This project was built to demonstrate a mastery of modern Android development pr
 
 | Home Screen | Search Screen | Favorites Screen | About Dialog |
 | :---: | :---: | :---: | :---: |
-| *(Your Screenshot Here)* | *(Your Screenshot Here)* | *(Your Screenshot Here)* | *(Your Screenshot Here)* |
+| <img width="1408" height="2974" alt="Screenshot_20250922_151943" src="https://github.com/user-attachments/assets/d0edaae6-ef20-487a-9a34-8b5952900680" /> | *(Your Screenshot Here)* | *(Your Screenshot Here)* | *(Your Screenshot Here)* |
 
 *You can add your own screenshots here by editing this README. [How to add images to a README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)*
 
@@ -46,7 +46,7 @@ To build and run this project yourself, you will need to get a free API key from
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Hamilwt/DailyPlanet-News-App.git](https://github.com/Hamilwt/DailyPlanet-News-App.git)
+    git clone https://github.com/Hamilwt/DailyPlanet-News-App.git
     ```
 2.  Open the project in Android Studio.
 3.  Navigate to the file `app/src/main/java/com/example/dailyplanet/api/Constants.kt`.
