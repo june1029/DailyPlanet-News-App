@@ -1,4 +1,4 @@
-<img width="1408" height="2974" alt="Screenshot_20250922_152330" src="https://github.com/user-attachments/assets/9e58ff71-85b9-4687-bf93-70ef8c992167" /># DailyPlanet News App 🚀
+# DailyPlanet News App 🚀
 
 DailyPlanet is a modern, feature-rich news application for Android, built entirely with **Jetpack Compose** and structured around the **MVVM** architecture. It delivers live top headlines from around the world using the NewsAPI.org service and provides a seamless, dynamic, and user-friendly experience for browsing, searching, and saving news.
 
