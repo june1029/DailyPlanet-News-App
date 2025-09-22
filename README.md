@@ -56,4 +56,7 @@ To build and run this project yourself, you will need to get a free API key from
     ```
 5.  Build and run the app.
 
-## 📜 License
+## 🙏 Acknowledgements
+
+* This project is powered by the [NewsAPI.org](https://newsapi.org) service.
+* Built with the incredible open-source libraries from the Android Jetpack and Kotlin ecosystems.
