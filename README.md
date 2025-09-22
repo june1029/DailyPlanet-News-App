@@ -1,4 +1,4 @@
-# DailyPlanet News App 🚀
+<img width="1408" height="2974" alt="Screenshot_20250922_152330" src="https://github.com/user-attachments/assets/9e58ff71-85b9-4687-bf93-70ef8c992167" /># DailyPlanet News App 🚀
 
 DailyPlanet is a modern, feature-rich news application for Android, built entirely with **Jetpack Compose** and structured around the **MVVM** architecture. It delivers live top headlines from around the world using the NewsAPI.org service and provides a seamless, dynamic, and user-friendly experience for browsing, searching, and saving news.
 
@@ -8,9 +8,7 @@ This project was built to demonstrate a mastery of modern Android development pr
 
 | Home Screen | Search Screen | Favorites Screen | About Dialog |
 | :---: | :---: | :---: | :---: |
-| <img width="1408" height="2974" alt="Screenshot_20250922_151943" src="https://github.com/user-attachments/assets/d0edaae6-ef20-487a-9a34-8b5952900680" /> | *(Your Screenshot Here)* | *(Your Screenshot Here)* | *(Your Screenshot Here)* |
-
-*You can add your own screenshots here by editing this README. [How to add images to a README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)*
+| <img width="1408" height="2974" alt="Screenshot_20250922_151943" src="https://github.com/user-attachments/assets/d0edaae6-ef20-487a-9a34-8b5952900680" /> | <img width="1408" height="2974" alt="Screenshot_20250922_152330" src="https://github.com/user-attachments/assets/0835465c-9be1-40f4-8e16-c283b3632cb2" /> | <img width="1408" height="2974" alt="Screenshot_20250922_152349" src="https://github.com/user-attachments/assets/9d11a475-3c7c-4a33-ac16-3dde61347ef3" /> | <img width="1408" height="2974" alt="Screenshot_20250922_152412" src="https://github.com/user-attachments/assets/bae1eab6-739a-4d6a-8671-1e6b0221b5c2" /> |
 
 ## ✨ Key Features
 
