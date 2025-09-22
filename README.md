@@ -46,8 +46,10 @@ To build and run this project yourself, you will need to get a free API key from
     ```bash
     git clone https://github.com/Hamilwt/DailyPlanet-News-App.git
     ```
-2.  Open the project in Android Studio.
+2.  Open the project in Android Studio.'
+
 3.  Navigate to the file `app/src/main/java/com/example/dailyplanet/api/Constants.kt`.
+
 4.  Paste your own API key into the `NEWS_API_KEY` variable:
     ```kotlin
     const val NEWS_API_KEY = "PASTE_YOUR_NEWSAPI_KEY_HERE"
